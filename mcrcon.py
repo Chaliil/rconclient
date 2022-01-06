@@ -31,4 +31,3 @@ while True:
         print('wrong password, please try again')
 
 print('rcon session closed')
-print()
